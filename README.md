@@ -43,3 +43,4 @@ Our implementation is based on resources from the following repository, we thank
 authors for open-sourcing their work.
 
 * https://github.com/salesforce/DeepTime
+* https://github.com/igfox/multi-output-glucose-forecasting
