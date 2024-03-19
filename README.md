@@ -1,5 +1,5 @@
-# TimlGluPred
-This is the repository for our work glucose excursion prediction using time-index meta-learning.
+# MOTIMGluPred
+This is the repository for our work glucose excursion prediction using meta-optimised time-index model.
 ## Prepare Data
 Raw data of the two datasets should be acquired from their raw repositories.
 
